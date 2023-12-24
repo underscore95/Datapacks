@@ -1,0 +1,11 @@
+execute as @s at @s if block ~ ~-1 ~ minecraft:beacon run function timedlife:blocks/types/beacon
+execute as @s at @s if block ~ ~-1 ~ minecraft:netherite_block run function timedlife:blocks/types/netherite
+execute as @s at @s if block ~ ~-1 ~ minecraft:diamond_block run function timedlife:blocks/types/diamond
+execute as @s at @s if block ~ ~-1 ~ minecraft:emerald_block run function timedlife:blocks/types/emerald
+execute as @s at @s if block ~ ~-1 ~ minecraft:gold_block run function timedlife:blocks/types/gold
+execute as @s at @s if block ~ ~-1 ~ minecraft:iron_block run function timedlife:blocks/types/iron
+execute as @s at @s if block ~ ~-1 ~ minecraft:lapis_block run function timedlife:blocks/types/lapis
+execute as @s at @s if block ~ ~-1 ~ minecraft:coal_block run function timedlife:blocks/types/coal
+execute as @s at @s if block ~ ~-1 ~ minecraft:redstone_block run function timedlife:blocks/types/redstone
+execute as @s at @s if block ~ ~-1 ~ minecraft:copper_block run function timedlife:blocks/types/copper
+execute as @s at @s if block ~ ~-1 ~ minecraft:quartz_block run function timedlife:blocks/types/quartz
